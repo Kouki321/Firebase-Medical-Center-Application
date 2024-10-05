@@ -23,6 +23,11 @@ The **Firebase Doctor Management Application** is a multi-user web application d
   - Provides insights into user activity, including the last online status and whether users are currently online.
   - Visual statistics (line charts, donut charts) showcasing user activity and appointments.
 
+## Technologies Used
+
+- **Frontend**: Vue.js
+- **Backend**: Firebase
+- **Hosting**: Firebase Hosting
 
 
 ## Project setup
