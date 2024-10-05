@@ -1,4 +1,4 @@
-# Firebase Doctor Management Application
+# Firebase Medical Center Application
 
 ## Overview
 
