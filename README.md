@@ -23,18 +23,7 @@ The **Firebase Doctor Management Application** is a multi-user web application d
   - Provides insights into user activity, including the last online status and whether users are currently online.
   - Visual statistics (line charts, donut charts) showcasing user activity and appointments.
 
-## Installation
 
-To run the project locally, follow these steps:
-
-### Prerequisites
-
-1. **Node.js**: Ensure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
-2. **Firebase CLI**: Install the Firebase CLI globally using npm:
-   ```bash
-   npm install -g firebase-tools
-
-# prj-fire
 
 ## Project setup
 ```
